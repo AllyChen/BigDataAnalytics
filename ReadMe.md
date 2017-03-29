@@ -60,4 +60,4 @@ plt.bar(range(10), importances[indices[0:10]], color="orange")
 plt.show()
 ```
 **>>Output**
-![png](HW1_output.png)
+![png](HW1_outPut.png)
