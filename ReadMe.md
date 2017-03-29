@@ -61,4 +61,4 @@ plt.show()
 ```
 **>>Output**
 
-![](./HW1_outPut.png)
+![](./img/HW1_outPut.png)
