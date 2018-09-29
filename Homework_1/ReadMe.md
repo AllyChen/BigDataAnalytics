@@ -1,7 +1,7 @@
 # Big Data Analytics
 ## Homework 1 (M10515053 陳品陵)
 ### Question & Answer
-
+請依照Microsoft Malware Challenges 2015 Dataset，並參考 https://github.com/ManSoSec/Microsoft-Malware-Challenge 所產生的Dataset，其中有1800+屬性，請回答以下問題：
 1.	哪些屬性對於惡意程式分類有效？
     - 利用 Feature importance with scikit-learn Random Forest 所算出的 importances 值愈**高**者。
 2.	哪些屬性對於惡意程式分類無效？
